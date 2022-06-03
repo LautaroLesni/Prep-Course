@@ -1,0 +1,147 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-image: url(https://i0.wp.com/iconos.verboencarnado.net/wp-content/uploads/2014/09/Fondo-rojo-995046-1024x640.jpg?fit=900%2C563&ssl=1);
+}
+#agrupar {
+    width:1000px;
+    border: 3px solid black;
+    margin:auto;
+    background-image: url(https://i.pinimg.com/originals/a9/e2/50/a9e2503b55b704870619bfd93a3153e0.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#Nombre {
+    font-size: 50px;
+    background-image: url(https://img.freepik.com/free-photo/old-paper-texture-background_118047-1365.jpg?w=2000);
+    padding-left: 10px;
+
+}
+#Info {
+    width: 340px;
+    height: 80px;
+    margin: 20px 20px;
+    padding: 20px 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color:rgb(15, 134, 231);
+    border: 1px solid black;
+    float: right;
+    background-image: url(https://img.freepik.com/free-photo/old-paper-texture-background_118047-1365.jpg?w=2000);   
+}
+#Info li {
+    list-style: none;
+}
+#Exp li {
+    list-style: none;
+    padding: 5px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+h2 {
+    padding: 1px;
+    font-family: sans-serif;
+    border: 2px solid black;
+    margin-left: 5px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    color:rgb(114, 12, 12);
+    background-image: url(https://thumbs.dreamstime.com/b/papel-arrugado-viejo-de-la-textura-del-color-blanco-56397228.jpg);
+}
+h1 {
+    width: 300px;
+    margin: 20px 50px;
+    font-family: sans-serif;
+    border: 2px solid black;
+}
+.datos {
+    color: black;
+}
+#Exp {
+    width: 350px;
+    height: 700px;
+    border: 1px solid black;
+    margin: 40px 50px 20px;
+    padding: 10px;
+    background-image: url(https://img.freepik.com/free-photo/old-paper-texture-background_118047-1365.jpg?w=2000);
+}
+#Exp h3 {
+    margin: 10px;
+    margin-bottom: 5px;;
+}
+#Exp span {
+    color: gray;
+    font-family: sans-serif;
+    text-align: center;
+    margin-left: 5px;
+}
+#Exp ul {
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+#Edu {
+    margin: 10px;
+    width: 700px;
+    height: 350px;
+    border: 1px solid black;
+    background-image: url(https://img.freepik.com/free-photo/old-paper-texture-background_118047-1365.jpg?w=2000);
+    font-family: sans-serif;
+}
+#Edu h3 {
+    margin: 5px;
+}
+#Edu span {
+    margin: 5px;
+    color:gray;
+    
+}
+#Edu p {
+    margin: 10px 5px 20px;
+}
+
+aside {
+    width: 340px;
+    height: 530px;
+    border: 1 solid black;
+    background-image: url(https://img.freepik.com/free-photo/old-paper-texture-background_118047-1365.jpg?w=2000);
+    position: relative;
+    top: -1030px; left: 630px;
+    font-family: sans-serif;
+    text-align: center;
+    border: 1px solid black;
+}
+aside li {
+    list-style: none;
+    margin: 10px 10px 10px;
+    border: 1px solid black;
+    padding: 10px;
+    background-image: url(https://thumbs.dreamstime.com/b/papel-arrugado-viejo-de-la-textura-del-color-blanco-56397228.jpg);
+    color:rgb(114, 12, 12);
+    font-weight:600;
+}
+aside h2 {
+    width: 150px;
+    margin: 20px 95px 15px;
+    text-align: center;
+}
+
+#Edu h2 {
+    width: 680px;
+}
+#hob {
+    background-image: url(https://img.freepik.com/free-photo/old-paper-texture-background_118047-1365.jpg?w=2000);
+    text-align:center;
+    position:relative;
+    top: -1640px; left: 720px;
+    font-family: sans-serif;
+    font-size: 40px;
+    border: 1px solid black;
+
+}
+a:link {
+    text-decoration:none;
+    padding: 5px;
+    color:white;
+}
